@@ -1,4 +1,4 @@
-#Author: Tj Tyson; Date: Aug 28, 2025; Purpose: Measures of descriptive stats
+#Author: Rahnie Riggins; Date: Aug 28, 2025; Purpose: Measures of descriptive stats
 
 
 # Generate dummy/sample dataset
